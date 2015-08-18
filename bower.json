@@ -1,0 +1,12 @@
+{
+    "name": "hola-platzi-polymer",
+    "version": "1.0.0",
+    "description": "Hola, Platzi. Con Polymer",
+    "ignore": [
+        "**/.*",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#1.0.0"
+    }
+}
